@@ -11,3 +11,5 @@
 // CARGA EL ARCHIVO template.php.
 // EN ESE ARCHIVO SE MOSTRARÁN LAS VISTAS CORRESPONDIENTES A LOS RESULTADOS
 // DE LA INTERACCIÓN DEL USUARIO
+
+//Este comentario es para probar las funciones de GIT
